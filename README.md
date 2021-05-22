@@ -14,4 +14,4 @@ Connect Google Colab
 Upload 'Reviews_new.csv"
 Then hit run all 
 
-The results are explained in the report.pdf
+The results are explained in the NLP_Final_Project.pdf
